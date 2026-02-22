@@ -1,0 +1,5 @@
+LangChain là framework giúp xây dựng ứng dụng sử dụng LLM.
+
+RAG là kỹ thuật kết hợp truy xuất dữ liệu và sinh văn bản.
+
+Vector Database lưu trữ dữ liệu dưới dạng vector embedding.
